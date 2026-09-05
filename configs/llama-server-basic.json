@@ -1,0 +1,10 @@
+{
+  "model": "../models/llama-3.2-3b-instruct.Q4_K_M.gguf",
+  "host": "127.0.0.1",
+  "port": 8080,
+  "n_gpu_layers": 99,
+  "ctx_size": 4096,
+  "n_predict": -1,
+  "chat_template": "llama3",
+  "log_disable": false
+}
